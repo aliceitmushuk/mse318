@@ -46,7 +46,7 @@ nav_order: 6
 
 ## An AI-Forward Protocol
 
-Here's the best workflow I've found for producing good presentations on new topics:
+Here's a workflow I've found useful for producing presentations:
 
 ### Step 1: Collect Papers
 Collect a list of papers and authors whose work you admire on the topic.

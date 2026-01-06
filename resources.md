@@ -25,6 +25,7 @@ nav_order: 7
 - [Applications lecture notes](lec/lec1/applications.pdf)
 - [Applications slides]()
 - [Foundational concepts slides](lec/lec1/Lagrangian_and_Repair_Hard_Constraints.pdf)
+- [How to give a talk](lec/how-to-give-a-talk.pdf)
 
 #### Lecture 1 Papers
 <!-- - [Constrained Deep Learning Duality](lec/lec1/Constrained_Deep_Learning_Duality.pdf)
