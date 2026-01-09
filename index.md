@@ -42,6 +42,11 @@ For each topic, we will begin with a foundational mini-lecture, followed by stud
 - **Instructor:** Prof. Udell
 - **Office Hours:** [Schedule here](https://calendar.app.google/sCu1wpZXkUdAXdA59)
 
+## Upcoming deadlines
+
+- Sign up for a topic on our [schedule](https://docs.google.com/spreadsheets/d/1qYS6aMa5TyBz1OmN1CT787XdBiAisVg9pACr-XSaN9A/edit?gid=0#gid=0) by writing your name next to a paper 11:59pm Friday 1/9. It's ok if >1 person signs up for the same paper, though we may have to swap some signups to make sure every paper is covered.
+- Class next week will be a working meeting: in your topic group (everyone signed up for the same week's presentation), you'll collaborate to pick 5-10 papers on your topic, with 2 to emphasize, and develop a baseline presentation (due Friday 1/16).
+
 ## Navigation
 
 - [Logistics](logistics) - Course logistics and meeting information

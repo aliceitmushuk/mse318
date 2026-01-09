@@ -26,6 +26,7 @@ nav_order: 7
 - [Applications slides]()
 - [Foundational concepts slides](lec/lec1/Lagrangian_and_Repair_Hard_Constraints.pdf)
 - [How to give a talk](lec/how-to-give-a-talk.pdf)
+- [Lecture 1 zoom recording](https://stanford.zoom.us/rec/share/P0PCLLukmg6QodspySPdzk2I8n4gWtXWFKsny_u_5Al8JP-Ibi7otnSswW-AMimr.0303D7_Af2Zj4T_K) (Passcode: ZdcZbw2+)
 
 #### Lecture 1 Papers
 <!-- - [Constrained Deep Learning Duality](lec/lec1/Constrained_Deep_Learning_Duality.pdf)
@@ -102,8 +103,6 @@ nav_order: 7
 * **[20] Advancing LLM Safe Alignment with Safety Representation Ranking** — Tianqi Du, Zeming Wei, Quan Chen, Chenheng Zhang, Yisen Wang (2025). *arXiv preprint (ICLR 2026 submission)*. arXiv:2505.15710; DOI: 10.48550/arXiv.2505.15710. ([arXiv][1])
   Proposes Safety Representation Ranking, which ranks multiple candidate responses using internal LLM representations to select safer outputs at inference time without changing model weights.
 * **[31] Learning Safety Constraints for Large Language Models** — Jianwei Zhang, Qiming Zhu, Yifang Xu, Mingjie Zhao, Hengrui Zhao, et al. (2025). *arXiv preprint*. arXiv:2504.17446; DOI: 10.48550/arXiv.2504.17446.
-  Proposes Safety Polytope, a geometric method that learns linear safety constraints in LLM representation space to improve safety generalization and robustness to jailbreak prompts.
-* **[42] Learning Safety Constraints for Large Language Models** — Jianwei Zhang, Qiming Zhu, Yifang Xu, Mingjie Zhao, Hengrui Zhao, et al. (2025). *arXiv preprint*. arXiv:2504.17446; DOI: 10.48550/arXiv.2504.17446.
   Proposes Safety Polytope, a geometric method that learns linear safety constraints in LLM representation space to improve safety generalization and robustness to jailbreak prompts.
 * **[12] Persona Vectors: Monitoring and Controlling Character Traits in Language Models** — Alex Schiebel, Wentao Li, Andrew Huang, Taylor Berg-Kirkpatrick, David Bau, et al. (2025). *arXiv preprint*. arXiv:2507.21509; DOI: 10.48550/arXiv.2507.21509.
   Identifies linear 'persona vectors' in large language model representations that enable monitoring and steering of character traits during generation.
